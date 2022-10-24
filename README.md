@@ -1,1 +1,1 @@
-# general.philosophies.management-philosophy
+Engineering Management Philosophy
