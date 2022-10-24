@@ -1,0 +1,1 @@
+# general.philosophies.management-philosophy
