@@ -6,8 +6,8 @@ Engineering Management must **not** be approached as an _ad hoc_, reactive respo
 
 ## Table of Contents 
 
-| Section                                             | Description                                                                          |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Communication](#communication)                     | A guide on how to get this project running locally on your machine for development.  |
-| [Local Project Execution]() | A guide on how to execute the app locally once configured. For development purposes. |
-| [Project Deployment]()           | A discussion of how to deploy this project to the AWS Elastic Beanstalk environment. |
+| Section                                             | Description                                                                            |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Communication](#communication)                     | A discussion of communication expectations, both of Managers and of Direct Reports.    |
+| [Measurement](#measurement)                         | A guide to measuring teams to assess performance, including relevant, critical merics. |
+| [Planning](#planning)                               | A discussion of how to deploy this project to the AWS Elastic Beanstalk environment.   |
