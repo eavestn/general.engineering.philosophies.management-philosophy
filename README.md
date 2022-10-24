@@ -10,43 +10,45 @@ Engineering Management is unique in that it sits at the convergence of three dis
 
 | Section                                             | Description                                                                            |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Communication](#communication)                     | A discussion of communication expectations, both of Managers and of Direct Reports.    |
-| [Measurement](#measurement)                         | A guide to measuring teams to assess performance, including relevant, critical merics. |
-| [Planning](#planning)                               | A discussion of how to deploy this project to the AWS Elastic Beanstalk environment.   |
+| [What Should Be Expected Of A Manager](#What-Should-Be-Expected-Of-A-Manager) | A discussion of communication expectations, both of Managers and of Direct Reports.|
+| [Handling Performance](#Handling-Performance)                                 | Communicating with and measuring teams to assess performance, including relevant, critical merics.        |
+| [Planning](#planning)                               | --                                                                                     |
 | [Knowledge](#knowledge)                             | A discussion of knowledge management.                                                  |
-| [Ceremonies](#ceremonies)                           | -- |
+| [Ceremonies](#ceremonies)                           | --                                                                                     |
 
 ---- 
 
 ### What Should Be Expected Of A Manager
 
-#### Guiding Principles
+#### **Guiding Principles**
 
 ##### Transparency
 
-Performance is not communicated to direct reports unless an Engineering Manager is committed to transparency.
-
-##### Non-Retaliation
+An employee should never worry that what is being communicated is not truth (that would be a distraction); any Engineering Manager must make transparency - to a fault - their commitment and their priority. Understandibly, some strategic decisions are necessarily shielded from members of an organization until it is appropriate for them to know, often times these conversations are financial in nature, such as acquisition discussions, procurements, etc. and do no directly effect employee performance concerns; however, where appropriate, transparency should be treated as a rule.
 
 ##### Respect
 
----- 
+An Engineering Manager - if they are doing their job - will have difficult conversations with their direct reports - and reports should hope conversations are challenging, we are each of us in this to be successful; however, "difficult" and "challenging" do not mean "rude", "unkind", "mean", "ugly", "angry", etc. Every employee is entitled to be treated with dignity. 
+
+##### Non-Retaliation
+
+An Engineering Manager can only operate effectively if his or her reports communicate openly and honestly with him or her; however, employees can only communicate openly and honestly if they believe they will be treated fairly. Employees regularly encounter difficult situations; it should be any employee's expectation that a Manager is available to help the employee navigate those challanges. 
 
 ### Handling Performance
 
-#### Performance
+#### **Performance**
 
 The _first_ question an Engineering Manager should seek to answer for his or her direct reports is how each direct report is performing. Let's re-read that: 
 
 > The _first_ question an Engineering Manager should seek to answer **for** his or her direct reports is how each direct report is performing.
 
-Note the emphasis on the "**for**" in the above sentence; the motivation for evaluating performance is the employee. Managers evaulate performance for no other reason than enabling employees to succeed. This will be critical in the later dicussion of [feedback](#feedback).
+Note the emphasis on the "**for**" above; the motivation for evaluating performance is the employee. Managers evaulate and communicate performance for no other reason than enabling employees to succeed. This will be critical in the later dicussion of [feedback](#feedback).
 
-The primary purpose of the Engineering Manager is to ensure  each team member is regularly, directly, and actionably aware of their status (performance) within the organization; further, that status should not be of a surprise to any employee directly or indirectly reporting to a Manager. No employee should be unaweare of their performance. Every other aspect of Engineering Management serves this singular purpose: ensuring each Engineer within the responsible organization is succeeding or on a path to success.
+The primary purpose of the Engineering Manager is to ensure each team member is regularly, directly, and actionably aware of their status (performance) within the organization; further, that status should not be of a surprise to any employee directly or indirectly reporting to a Manager. No employee should be unaweare of their performance. Every other aspect of Engineering Management serves this singular purpose: ensuring each Engineer within the responsible organization is succeeding or on a path to success.
 
 This document will continue to explore the exact meaning of performance, later.
 
-#### Communication
+#### **Communication**
 
 ##### Feedback
 
