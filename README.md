@@ -64,9 +64,18 @@ In order for feedback to be effective:
 
 - Feedback must be actionable. Feedback must always be **in response to something that is alterable** (that can be changed); offering general qualitative, analytical feedback about character and virture is to be avoided.
 
-##### Timeliness
+###### Timeliness
 
-Timeliness (immediacy - proximity to event); ability to take action, Lack of recalability is a disservice
+Timeliness is a critera of effective feedback; feedback must be timely. However, "timeliness" is its own category here as it requires a little more attention. It is the Engineering Manager's responsibility to ensure that feedback is only offered when it is timely; there is a point - although subjective - at which feedback no longer becomes meaningful or appropriate to deliver. 
+
+Feedback should be delivered in relative proximity to the occurrence the feedback addresses. The greater the amount of time between an event requiring feedback and the feedback, itself, the greater the disservice to the employee. Engineering Managers empower their employees by ensuring feedback is offered when an employee is able to recall the event. 
+
+###### Take Notes
+
+To ensure the ability to be specific to a particular event, an Engineering Manager should take notes in an appropriate format.
 
 ##### Ask First, Provide Feedback Second
 
+An Engineering Manager that _starts_ by _telling_ an employee what happened - without first asking - is causing a disservice to the employee; "telling first" does not provide the opportunity for the employee to frame the situation without foreknowledge of the Manager's response. Rather than putting the employee in the position of providing their wholistic understanding of an event, you put the employee on the defensive. 
+
+Further, an employee may already be aware of what they could have done differently.
