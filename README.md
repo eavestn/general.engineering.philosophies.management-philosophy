@@ -8,7 +8,7 @@ Engineering Management is unique in that it sits at the convergence of three dis
 
 ## Comments
 
-1. None of what you read will be revolutionary, particularly if you have spent any period of time as a manager. For some, the below documentation will be at least inuition affirming.
+1. None of what you read will be revolutionary, particularly if you have spent any period of time as a manager or mentor. For some, the below documentation will be at least inuition affirming.
 1. Much of what you read you are already doing (see point no. 1, above: "[n]one of what you read will be revolutionary....". 
 1. The intent is explicit, challengeable definitions of Engineering Management as a discipline; in short, the purpose is clarity.
 
@@ -21,7 +21,7 @@ Engineering Management is unique in that it sits at the convergence of three dis
 | [Planning](#planning)                               | --                                                                                     |
 | [Knowledge](#knowledge)                             | A discussion of knowledge management.                                                  |
 | [Ceremonies](#ceremonies)                           | --                                                                                     |
-
+| [Resources](#Resources)                             | A series of documents, articles, and books that are good starting places for learning more about Management as a discipline. |
 ---- 
 
 ### What Should Be Expected Of A Manager
@@ -87,3 +87,9 @@ To ensure the ability to be specific to a particular event, an Engineering Manag
 An Engineering Manager that _starts_ by _telling_ an employee what happened - without first asking - is causing a disservice to the employee; "telling first" does not provide the opportunity for the employee to frame the situation without foreknowledge of the Manager's response. Rather than putting the employee in the position of providing their wholistic understanding of an event, you put the employee on the defensive. 
 
 Further, an employee may already be aware of what they could have done differently.
+
+## Resources
+
+| Title (Hyperlink) | Resource Type | Brief Description |
+| ----------------- | ------------- | ----------------- |
+| [[Management] Antipatterns](https://www.oreilly.com/library/view/antipatterns-2nd-edition/9781439862162/) | Book | A taxonomy of egregious management style errors, including identifying charateristics, definitions, and examples. Also provides mechanisms for succeeding beneath those management styles. Provides solutions for **not** adopting antipattern behaviors.
