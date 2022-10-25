@@ -92,4 +92,6 @@ Further, an employee may already be aware of what they could have done different
 
 | Title (Hyperlink) | Resource Type | Brief Description |
 | ----------------- | ------------- | ----------------- |
-| [[Management] Antipatterns](https://www.oreilly.com/library/view/antipatterns-2nd-edition/9781439862162/) | Book | A taxonomy of egregious management style errors, including identifying charateristics, definitions, and examples. Also provides mechanisms for succeeding beneath those management styles. Provides solutions for **not** adopting antipattern behaviors.
+| [[Management] Antipatterns](https://www.oreilly.com/library/view/antipatterns-2nd-edition/9781439862162/) | Book | A taxonomy of egregious management style errors, including identifying charateristics, definitions, and examples. Also provides mechanisms for succeeding beneath those management styles. Provides solutions for **not** adopting antipattern behaviors. |
+| [The Manager's Path: A Guide For Tech Leaders Navigating Growth & Change](https://www.amazon.com/gp/product/1491973897/) | Book | Formal outline of Management responsibilities in Technology. |
+| [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) | Book | Seminal work from late early 2000s that defines five critical charateristics of underperforming teams. |
