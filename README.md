@@ -14,15 +14,29 @@ Engineering Management is unique in that it sits at the convergence of three dis
 
 ## Table of Contents 
 
-| Section                                             | Description                                                                            |
-| --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Section                                              | Description                                                                            |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [What Good Managers Fight](#What-Good-Managers-Fight)| A simple outline of the five characteristics - or behaviors - this document attempts to combat.
 | [What Should Be Expected Of A Manager](#What-Should-Be-Expected-Of-A-Manager) | A discussion of communication expectations, both of Managers and of Direct Reports.|
-| [Handling Performance](#Handling-Performance)                                 | Communicating with and measuring teams to assess performance, including relevant, critical merics.        |
-| [Planning](#planning)                               | --                                                                                     |
-| [Knowledge](#knowledge)                             | A discussion of knowledge management.                                                  |
-| [Ceremonies](#ceremonies)                           | --                                                                                     |
-| [Resources](#Resources)                             | A series of documents, articles, and books that are good starting places for learning more about Management as a discipline. |
+| [Handling Performance](#Handling-Performance)        | Communicating with and measuring teams to assess performance, including relevant, critical merics.           |
+| [Planning](#planning)                                | --                                                                                     |
+| [Knowledge](#knowledge)                              | A discussion of knowledge management.                                                  |
+| [Ceremonies](#ceremonies)                            | --                                                                                     |
+| [Resources](#Resources)                              | A series of documents, articles, and books that are good starting places for learning more about Management as a discipline. |
 ---- 
+### What Good Managers Fight
+
+In 2002, Patrick Lencioni published his _The Five Dysfunctions of a Team_, in which he lists five behaviours that - together and independently - present serious risk to success. The resonance of Lencioni's list with many employees is a simple demonstration of how impactful these behaviors are to the lives of team members:
+
+| Behavior                    | Short Description |
+| --------------------------- | ----------------- |
+| Absence of Trust            | Teams who lack trust conceal weaknesses and mistakes, hesitate to ask for help, jump to conclusions about the intentions of others, hold grudges and dread meetings. | 
+| Fear of Conflict            | A lack of trust leads to the fear of conflict. In these companies, employees worry more about politics and personal risk management than solving problems. Meetings are often boring because controversial topics are avoided. |
+| Lack of Commitment          | When teams become conflict-avoidant, a fear of failure develops. These teams have difficulty making decisions and second guess themselves. |
+| Avoidance of Accountability | Second-guessing and a lack of common objectives then leads to an inability to develop standards for performance. Team members miss deadlines and deliver mediocre work. |
+| Inattention to Results      | When teams lack focus and clear objectives, team members stagnate, become distracted, and focus on themselves |
+
+[_Short descripotions above are direct copies of those found in a 2021 Executive Agenda article about the Five Dysfunctions._](https://www.executiveagenda.com/resources/blog/five-dysfunctions-team)
 
 ### What Should Be Expected Of A Manager
 
