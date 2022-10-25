@@ -9,7 +9,7 @@ Engineering Management is unique in that it sits at the convergence of three dis
 ## Comments
 
 1. None of what you read will be revolutionary, particularly if you have spent any period of time as a manager or mentor. For some, the below documentation will be at least inuition affirming.
-1. Much of what you read you are already doing (see point no. 1, above: "[n]one of what you read will be revolutionary....". 
+1. Much of what you read you are already doing (see point no. 1, above: "[n]one of what you read will be revolutionary....)". 
 1. The intent is explicit, challengeable definitions of Engineering Management as a discipline; in short, the purpose is clarity.
 
 ## Table of Contents 
