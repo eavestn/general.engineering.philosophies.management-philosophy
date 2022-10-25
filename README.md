@@ -6,6 +6,12 @@ Engineering Management must **not** be approached as an _ad hoc_, reactive respo
 
 Engineering Management is unique in that it sits at the convergence of three disciplines: Technology, Product Ownership, and Management. All three of the factors define  - to some extent - the scope of the Engineering Manager's work.
 
+## Comments
+
+1. None of what you read will be revolutionary, particularly if you have spent any period of time as a manager. For some, the below documentation will be at least inuition affirming.
+1. Much of what you read you are already doing (see point no. 1, above: "[n]one of what you read will be revolutionary....". 
+1. The intent is explicit, challengeable definitions of Engineering Management as a discipline; in short, the purpose is clarity.
+
 ## Table of Contents 
 
 | Section                                             | Description                                                                            |
